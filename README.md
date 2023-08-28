@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my Resume**
 
-- 🌱 I’m currently learning **javascript andc**
+- 🌱 I’m currently learning **javascript and c#**
 
 - 📫 How to reach me **bjabbar233@gmail.com**
 
