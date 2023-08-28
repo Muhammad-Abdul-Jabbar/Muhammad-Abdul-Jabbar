@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-
 <h1 align="center">Hi 👋, I'm Abdul Jabbar</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
+<h3 align="center">A passionate frontend developer from Norway looking for an internship</h3>
 
 - 🔭 I’m currently working on **my Resume**
 
-- 🌱 I’m currently learning **javascript and c#**
+- 🌱 I’m currently learning **javascript andc**
 
 - 📫 How to reach me **bjabbar233@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/jabbar_006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jabbar_006/" height="30" width="40" /></a>
+<a href="https://instagram.com/jabbar_006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jabbar_006" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
