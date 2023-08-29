@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **javascript and c#**
 
+-  🌱 I’m also learning web futementals in a website called The Odin Project. 
+
 - 📫 How to reach me **bjabbar233@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFn9b_5kig/BcZUsbIsUsFhsGtRyLHlzQ/edit?utm_content=DAFn9b_5kig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFn9b_5kig/BcZUsbIsUsFhsGtRyLHlzQ/edit?utm_content=DAFn9b_5kig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
