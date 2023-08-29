@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bjabbar233@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFn9b_5kig/BcZUsbIsUsFhsGtRyLHlzQ/edit?utm_content=DAFn9b_5kig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFn9b_5kig/BcZUsbIsUsFhsGtRyLHlzQ/edit?utm_content=DAFn9b_5kig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
