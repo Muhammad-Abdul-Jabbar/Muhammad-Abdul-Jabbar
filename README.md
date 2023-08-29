@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **javascript and c#**
 
--  🌱 I’m also learning web futementals in a website called The Odin Project. 
+-  🌱 I’m also learning web fundamental in a website called The Odin Project. 
 
 - 📫 How to reach me **bjabbar233@gmail.com**
 
