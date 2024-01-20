@@ -8,7 +8,7 @@
 
 -  🌱 I’m also learning web fundamental in a website called The Odin Project. 
 
-- 📫 How to reach me **bjabbar233@gmail.com**
+- 📫 How to reach me **m.a.jabbar.bilal@gmail.com**
 
 
 
